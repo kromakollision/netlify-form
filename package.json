@@ -1,0 +1,15 @@
+{
+  "name": "netlify-web-page",
+  "version": "1.0.0",
+  "description": "A template to start building a static web page deployed to Netlify",
+  "main": "index.js",
+  "scripts": {
+    "netlify-login": "netlify login",
+    "netlify-init": "netlify init"
+  },
+  "author": "info@kromakollision.be",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "netlify-cli": "^12.10.0"
+  }
+}
