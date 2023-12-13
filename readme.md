@@ -1,4 +1,4 @@
-# Netlify About Page Template
+# Netlify Form Template
 
 This repository accompanies my article: [Publish an about page with a contact form on Netlify in less than 2 hours](https://medium.com/@koen.buckinx/publish-an-about-page-with-a-contact-form-on-netlify-in-less-than-2-hours-c84fa8a007d5).
 
